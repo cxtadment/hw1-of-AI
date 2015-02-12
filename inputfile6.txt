@@ -1,0 +1,8 @@
+WIDTH 5
+HEIGHT 3
+agent 0,0
+target 2,3
+configuration
+1	15	35	10	10
+15	15	20	35	10
+150	150	150	0	0
